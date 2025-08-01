@@ -1,4 +1,4 @@
-# Aws_Bucket_create using AIOPS
+# Aws_Bucket_create
 # AWS S3 Bucket Creation Script
 
 This Bash script automates the creation of an AWS S3 bucket with best practices, including enabling versioning and blocking public access. It also checks for valid AWS CLI credentials before proceeding.
